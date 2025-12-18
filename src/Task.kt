@@ -8,7 +8,4 @@ data class Task(
     val dueDate: String,
     val isCompleted: Boolean = false,
     val createdAt: String
-){
-
-
-}
+)
